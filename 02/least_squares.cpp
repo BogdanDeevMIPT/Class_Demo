@@ -5,6 +5,8 @@
 // xN yN
 // Compute linear regression [y = a + b*x] coefficients using the least
 // squares method.
+//test
+
 #include <cmath>
 #include <fstream>
 #include <iostream>
